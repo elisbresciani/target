@@ -31,6 +31,6 @@ int main()
     else{
         checa(num);
     }
-    
+
     return 0;
 }
